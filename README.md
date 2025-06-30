@@ -1,5 +1,5 @@
 # Project Title: Automate a demo fintech API by postman & newman
-## Project Summary: I have designed a flow in this project that allows administrators to log in, add new users, and carry out various CRUD operations for the users. Users can also send and receive money, deposit and withdraw funds, make payments, and check their own balances and statements, among other functions. Additionally, agents are able to deposit and send money to clients. The consumer pays the retailer. additionally verify their statement and balance
+## Project Summary: In this project, I created a flow that enables administrators to log in, add new users, and perform a number of CRUD tasks for the users.  Among other things, users can send and receive money, deposit and withdraw money, make payments, and view their own balances and statements.  Agents can also transmit and deposit money to their clients.  The retailer is paid by the customer.  Additionally, confirm their balance and statement.
 
 ## Prerequisites:
 - NodeJS (Latest LTS)
